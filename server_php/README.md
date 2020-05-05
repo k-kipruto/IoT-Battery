@@ -1,1 +1,1 @@
-#PHP code to update the database
+# PHP code to update the database
